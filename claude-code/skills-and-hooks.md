@@ -4,6 +4,8 @@
 
 Skills are slash commands that load a pre-written prompt when invoked. They're how Claude Code packages repeatable workflows.
 
+> To build your own skills, see [building-skills.md](building-skills.md) — full guide on folder structure, frontmatter, patterns, testing, and troubleshooting.
+
 ### Built-in Skills
 
 | Skill | Invoke | What it does |

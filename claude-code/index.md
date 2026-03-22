@@ -8,6 +8,7 @@ Claude Code is an AI coding agent that runs in your terminal and IDE. It reads/w
 |------|----------|
 | [cli-and-commands.md](cli-and-commands.md) | CLI flags, slash commands, keyboard shortcuts |
 | [skills-and-hooks.md](skills-and-hooks.md) | Built-in skills, hooks, automation |
+| [building-skills.md](building-skills.md) | Build your own skills — structure, frontmatter, patterns, testing |
 | [configuration.md](configuration.md) | settings.json, permissions, MCP servers |
 | [prompting.md](prompting.md) | Effective prompting, modes, context management |
 | [memory.md](memory.md) | Persistent memory across sessions |
